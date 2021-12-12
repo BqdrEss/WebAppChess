@@ -1,4 +1,5 @@
-#
+#Databases and Web Services Project
+
 This project is a Chess web application that displays game possible openings, The game implementation isn't finished yet. 
 ## Deploy the application locally 
 ### Git
