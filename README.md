@@ -4,7 +4,7 @@ This project is a Chess web application that displays game possible openings, Th
 ## Deploy the application locally 
 ### Git
 - Initilize a repository in an empty directory:  `git init` <br/>
-- run: `git clone https://github.com/Hamza-Bouhelal/Databases-and-Web-Services-Project` <br/>
+- run: `git clone https://github.com/BqdrEss/WebAppChess` <br/>
 - use `git status` to check whether everything is up to date <br/>
 ### Django Setup:
 - Create a virtual environment to install dependencies in and activate it: <br/>
